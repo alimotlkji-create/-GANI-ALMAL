@@ -1,0 +1,6 @@
+{
+  "name": "جني المال - GANI ALMAL",
+  "description": "تطبيق تحديات ونقاط افتراضية ومكافآت رقمية داخلية بتصميم أزرق داكن وذهبي فاخر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
